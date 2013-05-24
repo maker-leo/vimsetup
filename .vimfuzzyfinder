@@ -1,0 +1,77 @@
+VERSION	206
+MruFile	{'path': '/Users/student/Downloads/koans/test_helper.rb', 'time': 1369145083}
+MruFile	{'path': '/Users/student/Downloads/koans/about_array_assignment.rb', 'time': 1369145041}
+MruFile	{'path': '', 'time': 1369145026}
+MruFile	{'path': '/Users/student/Sites/enrique-pair/fizzbuzz.rb', 'time': 1368805039}
+MruFile	{'path': '/Users/student/Sites/ajax/new_file.rb', 'time': 1368802419}
+MruFile	{'path': '/Users/student/Sites/ajax/config/application.rb', 'time': 1368802339}
+MruFile	{'path': '/Users/student/Sites/ajax/app/assets/javascripts/application.js', 'time': 1368802302}
+MruFile	{'path': '/Users/student/Sites/ajax/config/environments/test.rb', 'time': 1368801858}
+MruFile	{'path': '/usr/local/bin/meteor', 'time': 1368801824}
+MruFile	{'path': '/Users/student/.vimrc', 'time': 1368800582}
+MruFile	{'path': '/Users/student/Sites/rspec/lib/scroller.rb', 'time': 1368800380}
+MruFile	{'path': '/Users/student/Sites/rspec/Gemfile', 'time': 1368800373}
+MruFile	{'path': '/Users/student/Sites/ajax/app/models/user.rb', 'time': 1368799258}
+MruFile	{'path': '/Users/student/Sites/ajax/Gemfile', 'time': 1368799172}
+MruFile	{'path': '/Users/student/Sites/ajax/db/seeds.rb', 'time': 1368798414}
+MruFile	{'path': '/Users/student/Downloads/MacVim-snapshot-66/README.txt', 'time': 1368785347}
+MruFile	{'path': '/Users/student/.vim/bundle/ctrlp.vim/doc/tags', 'time': 1368785266}
+MruFile	{'path': '/Users/student/.vim/ruby/vim.rb', 'time': 1368785167}
+MruFile	{'path': '/Users/student/Sites/rspec/Guardfile', 'time': 1368785093}
+MruFile	{'path': '/Users/student/Sites/rspec/spec/spec_helper.rb', 'time': 1368784953}
+MruFile	{'path': '/Users/student/Downloads/koans/example_file.txt', 'time': 1368784921}
+MruFile	{'path': '/Users/student/.vim/tags', 'time': 1368783923}
+MruFile	{'path': '/Users/student/.vim/colors/c.vim', 'time': 1368783845}
+MruFile	{'path': '/Users/student/.vim/filetype.vim', 'time': 1368783835}
+MruFile	{'path': '/Users/student/.vim/indent/sass.vim', 'time': 1368718437}
+MruFile	{'path': '/Users/student/.vim/syntax/mkd.vim', 'time': 1368718434}
+MruFile	{'path': '/Users/student/.vim/colors/moria.vim', 'time': 1368718308}
+MruFile	{'path': '/Users/student/.vim/colors/grblight.vim', 'time': 1368718284}
+MruFile	{'path': '/Users/student/.vim/bundle/NERD_tree_5', 'time': 1368718076}
+MruFile	{'path': '/Users/student/.vim/bundle/NERD_tree_4', 'time': 1368718073}
+MruFile	{'path': '/Users/student/.vim/bundle/NERD_tree_3', 'time': 1368718067}
+MruFile	{'path': '/Users/student/.vim/bundle/NERD_tree_2', 'time': 1368717970}
+MruFile	{'path': '/Users/student/vimconf/.gitignore', 'time': 1368716766}
+MruFile	{'path': '/Users/student/.gitconfig', 'time': 1368702896}
+MruFile	{'path': '/Users/student/vimconf/.gitmodules', 'time': 1368702691}
+MruFile	{'path': '/Users/student/Sites/twillex/app/controllers/users_controller.rb', 'time': 1368702168}
+MruFile	{'path': '/Users/student/Sites/twillex/', 'time': 1368701658}
+MruCmd	{'time': 1369155385, 'command': ':qa'}
+MruCmd	{'time': 1369145083, 'command': ':q!'}
+MruCmd	{'time': 1369145032, 'command': ':q'}
+MruCmd	{'time': 1369144830, 'command': ':vs'}
+MruCmd	{'time': 1368805042, 'command': ':!!'}
+MruCmd	{'time': 1368805039, 'command': ':w'}
+MruCmd	{'time': 1368804666, 'command': ':'}
+MruCmd	{'time': 1368804611, 'command': ':! ruby %'}
+MruCmd	{'time': 1368803627, 'command': ':!rspec %'}
+MruCmd	{'time': 1368802419, 'command': ':e new_file.rb'}
+MruCmd	{'time': 1368802339, 'command': ':e'}
+MruCmd	{'time': 1368802334, 'command': ':b'}
+MruCmd	{'time': 1368800618, 'command': '/font'}
+MruCmd	{'time': 1368800512, 'command': '/rtp'}
+MruCmd	{'time': 1368799734, 'command': ':wq'}
+MruCmd	{'time': 1368799230, 'command': '/statusl'}
+MruCmd	{'time': 1368798976, 'command': ':!git clone git://github.com/tpope/vim-fugitive.git'}
+MruCmd	{'time': 1368798967, 'command': ':!cd ~/.vim/bundle'}
+MruCmd	{'time': 1368798420, 'command': '/Ma'}
+MruCmd	{'time': 1368785522, 'command': ':bd!'}
+MruCmd	{'time': 1368785518, 'command': ':bd'}
+MruCmd	{'time': 1368785095, 'command': ':Q'}
+MruCmd	{'time': 1368718417, 'command': ':sv'}
+MruCmd	{'time': 1368718239, 'command': ':help ctrlp.txt'}
+MruCmd	{'time': 1368718228, 'command': ':helptags ~/.vim/bundle/ctrlp.vim/doc'}
+MruCmd	{'time': 1368718066, 'command': ':NERDTreeToggle'}
+MruCmd	{'time': 1368717922, 'command': ':help NERD_tree.txt'}
+MruCmd	{'time': 1368717900, 'command': ':helptags ~/.vim/bundle'}
+MruCmd	{'time': 1368717879, 'command': ':helptags ~/.vim'}
+MruCmd	{'time': 1368717868, 'command': ':helptags ~/.vim/doc'}
+MruCmd	{'time': 1368717689, 'command': ':helptags'}
+MruCmd	{'time': 1368716950, 'command': ':v'}
+MruCmd	{'time': 1368716943, 'command': ':sp'}
+MruCmd	{'time': 1368704733, 'command': ':help jumplist'}
+MruCmd	{'time': 1368704549, 'command': ':tabn'}
+MruCmd	{'time': 1368703968, 'command': ':call RunSpec("")'}
+MruCmd	{'time': 1368703921, 'command': ':!S'}
+MruCmd	{'time': 1368702964, 'command': '::q'}
+MruCmd	{'time': 1368701683, 'command': ':quit'}
